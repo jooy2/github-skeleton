@@ -1,2 +1,2 @@
 # github: username
-# custom: ["https://example.com/donate"]
+# custom: ["{DONATE_URL}"]
