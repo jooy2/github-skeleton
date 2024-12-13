@@ -8,4 +8,4 @@ The text inside the `{}` in the source folder needs to be formatted.
 
 ## License
 
-Copyright © 2024 jooy2(https://jooy2.com) <[jooy2.contact@gmail.com](mailto:jooy2.contact@gmail.com)> Released under the MIT license.
+Please see the [LICENSE](LICENSE) file for more information about project owners, usage rights, and more.
