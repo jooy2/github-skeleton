@@ -1,8 +1,10 @@
-# .gitignore for NodeJS Projects
+# .gitignore for Node.js Projects
 # ---------- Start of common ignore files
 
-# Node artifact files
+# Node.js artifact files
 node_modules/
+dist/
+build/
 
 # Log files
 *.log
@@ -13,6 +15,10 @@ node_modules/
 # JetBrains IDEs
 .idea/
 *.iml
+
+# AI
+.claude/worktree
+.claude/*.local.json
 
 # Visual Studio Code IDE
 .vscode/*
